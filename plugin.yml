@@ -1,0 +1,11 @@
+name: Bullion-Generator
+main: brianmedina.bulliongenerator.Main
+author: "@TheDevBrian"
+version: 0.1
+website: "https://twitter.com/TheDevBrian"
+api: [1.0.8]
+
+permissions:
+  brianmedina2612.bullion.generator.cmd:
+    default: op
+    description: "https://twitter.com/TheDevBrian"
